@@ -10,8 +10,6 @@ I developed this project as part of the **2023 Swift Student Challenge** at WWDC
 
 [![Watch the video](https://img.youtube.com/vi/zciIZMpkk_Q/maxresdefault.jpg)](https://youtu.be/zciIZMpkk_Q)
 
-### [Watch Artful Journey's gameplay video on YouTube](https://youtu.be/zciIZMpkk_Q)
-
 *Click the image above to watch the gameplay video.*
 
 ## Development Process
